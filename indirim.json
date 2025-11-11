@@ -1,0 +1,12 @@
+[
+  {
+    "name": "12 is Better Than 6",
+    "price": "$9.99",
+    "discount": "100%",
+    "finalPrice": "FREE",
+    "releaseDate": "2015-11-20",
+    "reviews": "Very Positive (83%)",
+    "platforms": ["Windows", "Mac", "Linux"],
+    "link": "https://store.steampowered.com/app/410110"
+  }
+]
